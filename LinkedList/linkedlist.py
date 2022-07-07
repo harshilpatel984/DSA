@@ -1,6 +1,3 @@
-from email import header
-
-
 class Node:
 
     def __init__(self, data) -> None:
